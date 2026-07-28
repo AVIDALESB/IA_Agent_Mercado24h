@@ -1,0 +1,11 @@
+codigo_barras,nombre_producto,categoria,pasillo,precio,stock
+7501000001,Leche Entera 1L,Lácteos y Derivados,Pasillo 1,25.50,120
+7501000002,Pan de Caja Integral,Panadería,Pasillo 2,38.00,45
+7501000003,Detergente Líquido 3L,Limpieza y Hogar,Pasillo 5,89.90,30
+7501000004,Queso Panela 400g,Lácteos y Derivados,Pasillo 1,54.50,60
+7501000005,Manzana Gala kg,Frutas y Verduras,Pasillo 3,42.00,85
+7501000006,Papel Higiénico 12 pzas,Limpieza y Hogar,Pasillo 5,75.00,110
+7501000007,Café Soluble 200g,Abarrotes,Pasillo 4,95.00,50
+7501000008,Aceite Vegetal 900ml,Abarrotes,Pasillo 4,48.50,75
+7501000009,Yogurt Natural 1L,Lácteos y Derivados,Pasillo 1,32.00,40
+7501000010,Galletas Marías 3 paquetes,Panadería,Pasillo 2,18.50,95
